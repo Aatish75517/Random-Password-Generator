@@ -10,4 +10,4 @@ A simple Streamlit web app that generates secure random passwords with custom le
 ## 🛠️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aatish75517/random-password-generator.git
+    https://github.com/Aatish75517/random-password-generator.git
