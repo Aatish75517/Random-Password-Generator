@@ -19,6 +19,6 @@ A simple Streamlit web app that generates secure random passwords with custom le
 3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-4.**Run the Streamlit app**
+ 4.**Run the Streamlit app**
    ```bash
-   python -m streamlit run app.py
+    python -m streamlit run app.py
