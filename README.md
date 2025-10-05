@@ -7,7 +7,18 @@ A simple Streamlit web app that generates secure random passwords with custom le
 - Include uppercase, lowercase, digits, and special characters
 - Download password as `.txt` file
 
-## 🛠️ How to Run Locally
-1. Clone the repository:
+## 🖥️ How to Download & Run Locally
+
+1. **Download the project**
+   - Click the green **Code** button (top right on GitHub)
+   - Select **Download ZIP**
+   - Extract the ZIP file to your computer
+
+2. **Open the folder** in your code editor (VS Code recommended)
+
+3. **Install dependencies**
    ```bash
-    https://github.com/Aatish75517/random-password-generator.git
+   pip install -r requirements.txt
+4.**Run the Streamlit app**
+   ```bash
+   python -m streamlit run app.py
